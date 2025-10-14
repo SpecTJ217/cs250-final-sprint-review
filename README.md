@@ -4,9 +4,9 @@ Portfolio artifact for Southern New Hampshire University CS 250. Role: Scrum Mas
 
 ## Deliverables
 - Sprint Review and Retrospective (3 to 4 pages, double spaced, Times New Roman 12):  
-  `CS250_Final_Project_Sprint_Review_and_Retrospective_Meglen_SUBMIT.docx`
+  `CS250_Final_Project_Sprint_Review_and_Retrospective_Meglen.docx`
 - Agile Presentation (6 slides with references):  
-  `CS250_Agile_Presentation_Meglen_CONDENSED_6slides_Exceeds.pptx`
+  `CS250_Agile_Presentation_Meglen.pptx`
 - Evidence image (optional):  
   `CS250_Sprint_Burndown_Meglen.png`
 
